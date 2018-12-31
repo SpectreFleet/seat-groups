@@ -1,5 +1,5 @@
 {
-    "name": "herpaderpaldent/seat-groups",
+    "name": "spectrefleet/seat-groups",
     "description": "A module for SeAT that adds the ability of using goups to assign roles to user that are in a group",
     "type": "seat-plugin",
     "require": {
